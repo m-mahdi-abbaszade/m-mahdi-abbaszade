@@ -14,5 +14,5 @@ DevOps & Automation Engineer | Linux | Ansible | CI/CD Enthusiast
 
 ## 📫 Contact
 - Email: abbaszade.m.1384@gmail.com
-- telegram: @mohammadinvoker
+- telegram: https://t.me/mohammadinvoker
 - LinkedIn: https://www.linkedin.com/in/mohammad-mahdi-abbaszadeh/
