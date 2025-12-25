@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammad Mahdi
 
-<!--
-**m-mahdi-abbaszade/m-mahdi-abbaszade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Automation Engineer | Linux | Ansible | CI/CD Enthusiast
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Automation & Configuration Management: Ansible
+- Linux Server Setup & Hardening
+- Docker & Basic CI/CD
+- Infrastructure as Code (IaC)
+- Python scripting for automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [Ansible DevOps Projects](https://github.com/m-mahdi-abbaszade/ansible-devops-projects)
+
+## 📫 Contact
+- Email: abbaszade.m.1384@gmail.com
+- telegram: @mohammadinvoker
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com)
