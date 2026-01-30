@@ -11,6 +11,7 @@ DevOps & Automation Engineer | Linux | Ansible | CI/CD Enthusiast
 
 ## 🚀 Featured Projects
 - [Ansible DevOps Projects](https://github.com/m-mahdi-abbaszade/ansible-devops-projects)
+- [cisco-network-automation](https://github.com/m-mahdi-abbaszade/cisco-network-automation)
 
 ## 📫 Contact
 - Email: abbaszade.m.1384@gmail.com
