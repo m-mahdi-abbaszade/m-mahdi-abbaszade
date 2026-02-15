@@ -16,16 +16,25 @@
 Here are some of my active repositories:
 
 ### 📂 DevOps & Infrastructure
-- **ansible-devops-projects** – Ansible playbooks for automation & infra provisioning  
+
+- **ecommerce-microservices-devops** – Dockerized microservices architecture with 7 services, internal networking & orchestration  
+  https://github.com/m-mahdi-abbaszade/ecommerce-microservices-devops
+
+- **ansible-devops-projects** – Ansible playbooks for automation & infrastructure provisioning  
   https://github.com/m-mahdi-abbaszade/ansible-devops-projects
+
 - **cisco-network-automation** – Network automation scripts  
   https://github.com/m-mahdi-abbaszade/cisco-network-automation
 
-### 🌐 Web & Docker
-- **portfolio-site** – Personal portfolio site  
-  http://github.com/m-mahdi-abbaszade/portfolio-site
+---
 
-(Additional repos under your account 👇) :contentReference[oaicite:1]{index=1}
+### 🌐 Web Applications
+
+- **grade-submission-portal** – Web-based grade management portal  
+  https://github.com/m-mahdi-abbaszade/grade-submission-portal
+
+- **portfolio-site** – Personal portfolio website  
+  https://github.com/m-mahdi-abbaszade/portfolio-site
 
 ---
 
@@ -39,6 +48,7 @@ Here are some of my active repositories:
 
 ## 📌 Open to Collaboration
 
-I’m actively looking for opportunities in **DevOps / Cloud Automation / Docker & Kubernetes workflows** — let’s build scalable systems together! 💡
+I’m actively looking for opportunities in **DevOps / Cloud Automation / Docker & Kubernetes workflows** — let’s build scalable systems together! 💡  
 
-👍 *Feel free to explore my repositories and reach out!*  
+👍 *Feel free to explore my repositories and reach out!*
+
